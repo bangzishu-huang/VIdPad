@@ -3,7 +3,7 @@ A macropad created for more efficient video viewing. There are 6 keys which are 
 
 This roughly took me around 18+ hours because it was my first time designing any type of hardware, but I really enjoyed the process!
 
-<img width="1051" height="670" alt="Screenshot 2026-02-15 205305" src="https://github.com/user-attachments/assets/2c97e126-fbe9-4489-9f49-7ae71186511f" />
+<img width="640" height="438" alt="Screenshot 2026-02-18 at 1 46 23 PM Large" src="https://github.com/user-attachments/assets/68898de8-4a6e-4e23-bc28-fbee73443e78" />
 
 # PCB
 Everything was done on KiCAD, and I used a JLCPCB plugin for exporting the gerber files.
